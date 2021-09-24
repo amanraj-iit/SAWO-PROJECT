@@ -1,0 +1,15 @@
+body{
+	background-image:url("https://res.cloudinary.com/highereducation/image/upload/v1533591754/TheBestColleges.org/study-notebooks.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1{
+	margin: 100px auto;
+	background: white;
+	width: 450px;
+	text-align: center;
+	padding: 10px;
+	border-radius: 15px;
+	opacity: 0.7;
+}
